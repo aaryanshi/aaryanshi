@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaryanshi
 - 👀 I’m interested in Machine learning ,Robotics and Automation
 - 🌱 I’m currently learning Automation models and Robotics
-- 💞️ I’m looking to collaborate on Automation models
+- 💞️ I’m looking to collaborate to create real time learning product based models.
 - 📫 How to reach me anshitashukla0601@gmail.com
 
 <!---
